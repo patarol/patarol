@@ -10,7 +10,7 @@
 I'm Luciano, a Data Scientist and `R` developer. Also working with `Python` and several other programming languages commonly used in Data Science world.
 Below are some insights about my work and my github profile.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patarol&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patarol&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![patarol's GitHub stats](https://github-readme-stats.vercel.app/api?username=patarol&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
